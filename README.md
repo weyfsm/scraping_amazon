@@ -1,4 +1,4 @@
-# web_scraping
+# Web Scraping - Sites de Vendas
 Algoritmos de Web Scraping, que coleta informações de valor e nome dos produtos escolhidos em sites de vendas.
 Desenvolvidos durante o Programa Trilhas, na formação de Python para Data Science.
 Foram utilizadas as bibliotecas BeautifulSoup para alguns algoritmos, enquanto outros usaram Selenium para emular a atividade humana no navegador.
